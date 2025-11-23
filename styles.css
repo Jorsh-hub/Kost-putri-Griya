@@ -1,6 +1,5 @@
-/* --- JAM DIGITAL --- */
 #clock-desktop, #clock-mobile {
-    font-variant-numeric: tabular-nums; /* Supaya angka tidak goyang-goyang */
+    font-variant-numeric: tabular-nums; 
     cursor: default; 
     user-select: none;
 }
